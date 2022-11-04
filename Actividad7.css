@@ -1,0 +1,15 @@
+form{
+    border: dashed;
+    padding: 10px;
+    border-radius: 20px;
+    border-style: groove;
+    background-color: brown;
+    cursor: pointer;
+}
+button{
+    border: solid;
+    padding:15px;
+    border-radius: 20px;
+    border-style: groove;
+    box-shadow: 20px 10px 20px;
+}
